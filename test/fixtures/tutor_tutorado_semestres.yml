@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  semestre: MyString
+  tutorado: one
+  tutor: one
+
+two:
+  semestre: MyString
+  tutorado: two
+  tutor: two

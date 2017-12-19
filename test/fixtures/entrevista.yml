@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  comentario: MyText
+  vocacional: 1
+  academico: 1
+  interracion: 1
+  migratorio: 1
+  salud: 1
+  familiar: 1
+  economico: 1
+  tutorado: one
+  tutor: one
+
+two:
+  comentario: MyText
+  vocacional: 1
+  academico: 1
+  interracion: 1
+  migratorio: 1
+  salud: 1
+  familiar: 1
+  economico: 1
+  tutorado: two
+  tutor: two

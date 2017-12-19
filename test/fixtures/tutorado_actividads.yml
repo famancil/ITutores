@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  asistencia: false
+  tutorado: one
+  actividad: one
+
+two:
+  asistencia: false
+  tutorado: two
+  actividad: two

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  texto: MyText
+  carrera: MyString
+  campus: MyString
+  coordinador: one
+
+two:
+  texto: MyText
+  carrera: MyString
+  campus: MyString
+  coordinador: two
